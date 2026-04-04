@@ -71,6 +71,9 @@ One AI-powered platform where:
 - [ ] Backend integration (Node.js + Database)
 - [ ] Deploy to Vercel / Azure
 
+ ## 🌐 Live Demo
+👉 [Click Here to View](https://ai-judicial-case-management.vercel.app)
+
    ## 🏆 HacWards Hackathon 2026
 
 > *"Technology in service of Justice"*
