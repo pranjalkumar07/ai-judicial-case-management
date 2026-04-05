@@ -4,7 +4,7 @@
 > and Citizens interact with India's legal system —
 > powered by AI, built for justice.
 
-**Team Pathfinders** | 🏆 HacWards Hackathon
+**Team Pathfinders** | 🏆 HacWarts Hackathon
 
 ---
 
@@ -74,6 +74,6 @@ One AI-powered platform where:
  ## 🌐 Live Demo
 👉 [Click Here to View](https://ai-judicial-case-management.vercel.app)
 
-   ## 🏆 HacWards Hackathon 2026
+   ## 🏆 HacWarts Hackathon 2026
 
 > *"Technology in service of Justice"*
